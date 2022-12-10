@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "apollo-server-express": "^2.6.7",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql": "^14.4.2",
     "graphql-compose": "^6.3.5",
     "graphql-compose-mongoose": "^6.1.1",
